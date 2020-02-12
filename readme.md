@@ -1,6 +1,14 @@
 
+ # Plano de Estudos
  ASSUNTOS | LOCAL DE ESTUDO | PROJETO
 --------- |  ------------   | -------
- Markdown | [StackEdit](https://stackedit.io/app#) | Este mesmo :D
- Vue.js	  | [Vue.js Guid](https://br.vuejs.org/)     | 1. [Crud PWA]([https://github.com/diegofranca92/crud-pwa](https://github.com/diegofranca92/crud-pwa)) <br/> 2. [Login App](https://github.com/diegofranca92/login-app) <br/>3. [Consumindo API CoinDesk](https://github.com/diegofranca92/consumindo-api-coindesk)
+ **Markdown** | + [StackEdit](https://stackedit.io/app#)<br> + [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) | Este mesmo :D
+ **Vue.js**	  | [Vue.js Guid](https://br.vuejs.org/)     | 1. [Crud PWA](https://github.com/diegofranca92/crud-pwa) <br/> 2. [Login App](https://github.com/diegofranca92/login-app) <br/>3. [Consumindo API CoinDesk](https://github.com/diegofranca92/consumindo-api-coindesk)
  
+ # Links Interessantes
+
+ NOME     | UTILIDADE       | LINK
+--------- |  ------------   | -------
+**StackEdit** | Editor Online de Markdown|https://stackedit.io/app
+**JS Fiddle** |Editor de JavaScript Online |https://jsfiddle.net/
+**Code Pen**  | Editor Online de HTML + JavaScript + CSS | https://codepen.io/
