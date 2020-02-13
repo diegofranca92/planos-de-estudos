@@ -10,5 +10,8 @@
  NOME     | UTILIDADE       | LINK
 --------- |  ------------   | -------
 **StackEdit** | Editor Online de Markdown|https://stackedit.io/app
-**JS Fiddle** |Editor de JavaScript Online |https://jsfiddle.net/
+**JS Fiddle** | Editor de JavaScript Online |https://jsfiddle.net/
 **Code Pen**  | Editor Online de HTML + JavaScript + CSS | https://codepen.io/
+**Docsify**   | Gerador inteligente de Documentação usando Markdown. | https://docsify.js.org/
+**FreeCodeCamp** | Plataforma de Aprendizado focado em tecnologias da WEB com emissão de Certificado e realização de Projetos para Aprendizado | https://www.freecodecamp.org/learn/
+**Khan Academy** |Plataforma de Aprendizado, com cursos diversos, e com cursos muito bons na area de Tecnologia| https://pt.khanacademy.org/
