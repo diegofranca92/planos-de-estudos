@@ -1,5 +1,5 @@
 
- # Plano de Estudos
+ # Plano de Estudos :books:
  ASSUNTOS | LOCAL DE ESTUDO | PROJETO
 --------- |  ------------   | -------
  **Markdown** | + [StackEdit](https://stackedit.io/app#)<br> + [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) | Este mesmo :D
@@ -8,7 +8,7 @@
  **Docker** | [Docker Documentation](https://docs.docker.com/) | [Docker Test](https://github.com/diegofranca92/docker-test)
  **TDD com Cypress** | [Cypress Documentation](https://docs.cypress.io/)
   
- # Links Interessantes
+ # Links Interessantes :link:
 
  NOME     | UTILIDADE       | LINK
 --------- |  ------------   | -------
