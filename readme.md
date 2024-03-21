@@ -19,3 +19,4 @@
 **FreeCodeCamp** | Plataforma de Aprendizado focado em tecnologias da WEB com emissão de Certificado e realização de Projetos para Aprendizado | https://www.freecodecamp.org/learn/
 **Khan Academy** |Plataforma de Aprendizado, com cursos diversos, e com cursos muito bons na area de Tecnologia| https://pt.khanacademy.org/
 **Gitpod** | Plataforma que te permite visualizar, editar e rodar qualquer projeto do GitHub, ele cria um ambiente de desenvolvimento | https://gitpod.io/
+**tailblocks** | Blocos de codigo pronto TailwindCSS | https://tailblocks.cc/
