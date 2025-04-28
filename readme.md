@@ -7,6 +7,7 @@
  **React.js + Node.js + React Native** | [Rocketseat](https://rocketseat.com.br/) | [Estudos Rocketseat](https://github.com/diegofranca92/estudos-rocketseat)
  **Docker** | [Docker Documentation](https://docs.docker.com/) | [Docker Test](https://github.com/diegofranca92/docker-test)
  **TDD com Cypress** | [Cypress Documentation](https://docs.cypress.io/)
+  **DB diagram** | [DB diagram](https://dbdiagram.io/home)) 
   
  # Links Interessantes :link:
 Exercicios Praticos - desafios
